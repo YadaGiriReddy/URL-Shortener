@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="js/popup.js"></script>
+    <link rel="stylesheet" href="css/spectre.min.css">
+    <title>URL Shortener</title>
+</head>
+<body style="width: 380px;">
+    <div class="card" style="padding: 15px;">
+        <div class="toast toast-success d-hide" id="successMsg">
+            Short link Generated Successfully.
+          </div>
+          <div class="toast toast-error d-hide">
+          </div>
+        <div class="form-group" id="longUrldiv">
+            <label class="form-label" for="longUrl">Long URL <b>*</b></label>
+            <input class="form-input" type="text" id="longUrl" placeholder="Enter the long URL...">
+            <p class="form-input-hint d-hide" id="longUrlError" >Long URL is invalid/empty.</p>
+        </div>
+        <div class="container">
+            <div class="columns">
+              <button class="btn btn-primary column col-3" id="create">Create</button> &nbsp; &nbsp;
+              <div class="loading d-hide"></div>
+              <div class="form-group column col-7 tooltip" data-tooltip="Click to copy">
+                <input class="form-input d-hide" id="shortUrl" style="width:auto" readonly/>
+              </div>&nbsp;&nbsp;
+              <figure class="avatar avatar-sm">
+              <a href="https://www.w3schools.com">
+                <img src="Images/GithubLogo.png" alt="GitHub Logo">
+              </a>
+              </figure>
+            </div>
+          </div> 
+          <div class="form-group p-centered">
+          <label class="form-label">Designed & Developed with <span class="text-error">♥</span> by <a href="https://www.linkedin.com/in/hyadagirireddy/" target="_blank">Yadagiri Reddy</a>. </label>
+        </div>
+    </div>    
+</body>
+</html>

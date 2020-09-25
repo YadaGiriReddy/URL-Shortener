@@ -1,0 +1,20 @@
+{
+    "name": "URL Shortener Chrome Extension",
+    "version": "0.1",
+    "description": "Shorten your long url using t.ly api",    
+    "icons": {
+        "128": "Images/Logo.png"
+    },
+    "browser_action": {
+      "default_icon": "Images/Logo.png",
+      "default_popup": "popup.html"
+    },
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": false
+    },
+    "manifest_version": 2,
+    "permissions": [
+        "storage"
+    ]
+  }
