@@ -8,9 +8,12 @@ Generally some url links are very lenthy and its hard to share them with anyone,
 2. Extract the ZIP file into a seperate folder.
 
 ![URL Shortener Chrome Extension ZIP file](https://1.bp.blogspot.com/-XFZGa6IPFVs/X27w__SsF1I/AAAAAAAABHE/ROaV-abTgTQFkG3dUmN6wV8P5BXg3j5wgCLcBGAsYHQ/s320/2.PNG)
+
 3. Open Chrome browser then goto More tools -> Extensions or you can enter [chrome://extensions/](chrome://extensions/) in the browser url section.
 4. Switch on the Developer Mode then Click on Load unpacked and select the extracted folder.
+
 ![Load Unpacked Extension](https://1.bp.blogspot.com/-Ww8pyb1C6Uw/X27w_4Sqh8I/AAAAAAAABHA/vzZ40h3i_6sRqkgy-CFH7s5o20zAda2TACLcBGAsYHQ/w400-h181/3.PNG)
+
 5. The installation is completed :thumbsup: .
 
 ## Configuration Steps:
