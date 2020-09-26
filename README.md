@@ -31,6 +31,7 @@ In order to use this extension first we need to setup few more things, those are
 
 ## Usage Instructions:
 Click on the extension(URL Shortener Chrome Extension) from chrome extensions, it opens the below popup.
+
 ![URL Shortener](https://1.bp.blogspot.com/-IJRoNdJLiRA/X27xA3I3jHI/AAAAAAAABHQ/mdvAloKD-uUgQhBPzZeRsAquSdkuxr3BwCLcBGAsYHQ/s320/5.PNG)
 
 Here provide the long URL that you want to shorten and click on Create.
