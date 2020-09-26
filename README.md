@@ -7,7 +7,7 @@ Generally some url links are very lenthy and its hard to share them with anyone,
 ![URL Shortener GitHub Page](https://1.bp.blogspot.com/-Xg0Xjw_8_Zc/X27w__BPfDI/AAAAAAAABHI/inWEWM1SbOkDpOINSBO_83d6kL20KfBXwCLcBGAsYHQ/w640-h402/1.PNG)
 2. Extract the ZIP file into a seperate folder.
 
-![URL Shortener Chrome Extension ZIP file](https://1.bp.blogspot.com/-XFZGa6IPFVs/X27w__SsF1I/AAAAAAAABHE/ROaV-abTgTQFkG3dUmN6wV8P5BXg3j5wgCLcBGAsYHQ/s320/2.PNG)
+  ![URL Shortener Chrome Extension ZIP file](https://1.bp.blogspot.com/-XFZGa6IPFVs/X27w__SsF1I/AAAAAAAABHE/ROaV-abTgTQFkG3dUmN6wV8P5BXg3j5wgCLcBGAsYHQ/s320/2.PNG)
 
 3. Open Chrome browser then goto More tools -> Extensions or you can enter [chrome://extensions/](chrome://extensions/) in the browser url section.
 4. Switch on the Developer Mode then Click on Load unpacked and select the extracted folder.
